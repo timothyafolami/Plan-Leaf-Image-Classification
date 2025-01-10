@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+opencv-python==4.10.0.84
+tqdm==4.67.1
+scikit-learn==1.6.1
+matplotlib==3.10.0
+tensorboard==2.18.0
